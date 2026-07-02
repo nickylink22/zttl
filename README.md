@@ -51,4 +51,8 @@ The complete design system has been finished.
 
 ---
 
-## ❤️ The journey begins...
+🌿 Every legend has a beginning.
+
+ZTTL officially entered development on July 2nd, 2026.
+
+Welcome to the Emerald Archive.
